@@ -1,16 +1,20 @@
-# flutter_task
+# Flutter Notes App
 
-A new Flutter project.
+Notes App Made With Flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/61506408/191593386-b3c6736f-ed90-4ec3-b8e9-9bb76577ac6d.mov
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+App Features:
+  1- Load Notes
+  2- Insert Note
+  3- Update Note
+  4- Insert Note
+  5- Clear Notes
+  6- Ability to use remote or local datasource
+
+
